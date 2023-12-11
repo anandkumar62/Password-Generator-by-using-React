@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Password-Generator-by-using-React/static/css/main.fbce1c81.css",
+    "main.js": "/Password-Generator-by-using-React/static/js/main.bc8d80ca.js",
+    "index.html": "/Password-Generator-by-using-React/index.html",
+    "main.fbce1c81.css.map": "/Password-Generator-by-using-React/static/css/main.fbce1c81.css.map",
+    "main.bc8d80ca.js.map": "/Password-Generator-by-using-React/static/js/main.bc8d80ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbce1c81.css",
+    "static/js/main.bc8d80ca.js"
+  ]
+}
